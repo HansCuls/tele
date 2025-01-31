@@ -1,0 +1,17 @@
+{
+    "name": "telegram-bot",
+    "version": "1.0.0",
+    "description": "Bot Telegram dengan fitur lengkap",
+    "main": "bot.js",
+    "dependencies": {
+        "node-telegram-bot-api": "^0.51.0",
+        "axios": "^1.5.0",
+        "fs-extra": "^11.0.0",
+        "moment": "^2.29.4"
+    },
+    "scripts": {
+        "start": "node bot.js"
+    },
+    "author": "hanszculsz",
+    "license": "MIT"
+}
